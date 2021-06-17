@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1" byte_order="LittleEndian" compressor="vtkZLibDataCompressor">
+  <Collection>
+    <DataSet timestep="0" group="" part="0" file="result_PoC1_ts_0_t_0.000000.vtu"/>
+    <DataSet timestep="2.5" group="" part="0" file="result_PoC1_ts_1_t_2.500000.vtu"/>
+    <DataSet timestep="5" group="" part="0" file="result_PoC1_ts_2_t_5.000000.vtu"/>
+    <DataSet timestep="7.5" group="" part="0" file="result_PoC1_ts_3_t_7.500000.vtu"/>
+    <DataSet timestep="10" group="" part="0" file="result_PoC1_ts_4_t_10.000000.vtu"/>
+    <DataSet timestep="12.5" group="" part="0" file="result_PoC1_ts_5_t_12.500000.vtu"/>
+    <DataSet timestep="15" group="" part="0" file="result_PoC1_ts_6_t_15.000000.vtu"/>
+    <DataSet timestep="17.5" group="" part="0" file="result_PoC1_ts_7_t_17.500000.vtu"/>
+    <DataSet timestep="20" group="" part="0" file="result_PoC1_ts_8_t_20.000000.vtu"/>
+    <DataSet timestep="22.5" group="" part="0" file="result_PoC1_ts_9_t_22.500000.vtu"/>
+    <DataSet timestep="25" group="" part="0" file="result_PoC1_ts_10_t_25.000000.vtu"/>
+    <DataSet timestep="27.5" group="" part="0" file="result_PoC1_ts_11_t_27.500000.vtu"/>
+    <DataSet timestep="30" group="" part="0" file="result_PoC1_ts_12_t_30.000000.vtu"/>
+    <DataSet timestep="32.5" group="" part="0" file="result_PoC1_ts_13_t_32.500000.vtu"/>
+    <DataSet timestep="35" group="" part="0" file="result_PoC1_ts_14_t_35.000000.vtu"/>
+    <DataSet timestep="37.5" group="" part="0" file="result_PoC1_ts_15_t_37.500000.vtu"/>
+    <DataSet timestep="40" group="" part="0" file="result_PoC1_ts_16_t_40.000000.vtu"/>
+    <DataSet timestep="42.5" group="" part="0" file="result_PoC1_ts_17_t_42.500000.vtu"/>
+    <DataSet timestep="45" group="" part="0" file="result_PoC1_ts_18_t_45.000000.vtu"/>
+    <DataSet timestep="47.5" group="" part="0" file="result_PoC1_ts_19_t_47.500000.vtu"/>
+    <DataSet timestep="50" group="" part="0" file="result_PoC1_ts_20_t_50.000000.vtu"/>
+    <DataSet timestep="60" group="" part="0" file="result_PoC1_ts_21_t_60.000000.vtu"/>
+  </Collection>
+</VTKFile>
